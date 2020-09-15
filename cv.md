@@ -1,7 +1,7 @@
 # Sergey Pozharitsky
 ## Junior Front-End Developer
 ### Skype: _sergey.pozharitsky_
-#### pozhar511@gmail.com
+**pozhar511@gmail.com**
 ### cell: +375-29-667-0610
 
 ## Profile
