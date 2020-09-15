@@ -63,4 +63,4 @@ _Regression testing_
 ### Economist-manager
 
 ## English - B1
-_I can speak and correspond_
+_I can speak and correspond._
